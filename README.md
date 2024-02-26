@@ -1,2 +1,2 @@
 # Web-Henry
-Este es una repositorio de los cursos de henry
+Este proyecto es una prueba como crear un repositorio desde github a
